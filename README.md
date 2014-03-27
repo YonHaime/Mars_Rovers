@@ -1,4 +1,4 @@
-Mars_Rovers
+Instrucciones
 ===========
 1.- Abrir la consola de Ruby y direccionar a la carpeta en donde se encuentra el proyecto
 
